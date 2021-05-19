@@ -1,5 +1,6 @@
 <?php
 //pubblicato su github
+//modificato online
 $usr_id=$_GET['usr_id'];
 echo $usr_id."<BR>";
 $conn= new MySQLi ('localhost','app','Xo82tj!e','blog');
